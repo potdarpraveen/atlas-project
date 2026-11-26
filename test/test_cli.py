@@ -1,6 +1,6 @@
 import pytest
 
-from atlas.cli import main
+#from atlas.cli import main
 
 
 def test_version_prints_and_exits(capsys):
